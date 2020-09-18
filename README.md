@@ -2,8 +2,8 @@
 
 Create a Python file named animal.py.  Type the following code into the file, but with **your name** and the **current date**:
 ```
-# Author: Tim Alcon
-# Date: 1/1/1970
+# Author: Ted Janney
+# Date: 17/09/2020
 # Description: Asks the user for their favorite animal and then
 #              prints out that that is their favorite animal
 
